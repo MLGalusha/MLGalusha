@@ -1,35 +1,57 @@
-# 🚀 Mason Loring Galusha | Web & AI Developer in the Making
+# 🚀 Mason Loring Galusha | Frontend-Focused, Full-Stack Curious
 
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/masonlgalusha/)
 
-### About Me
+## About Me
 
-I'm a **self-taught web developer** with a background in **AI and machine learning**. My goal is to **combine AI with web development** to build smarter, more useful applications. Right now, I'm grinding through **React and TypeScript**, improving frontend skills so I can bring AI-powered web apps to life.
+I'm Mason, a **frontend enthusiast** who loves exploring full-stack development whenever I feel like it. Instead of chasing a job title or a rigid plan, I'm diving into projects that **excite** me—because that's where real learning (and fun!) happens.
 
-I’m not just following tutorials—I’m coding **every single day**, breaking down problems, and rebuilding projects from scratch until I truly understand them.
+---
 
-### 📅 What I’m Working On Right Now
+## Why I’m Shifting My Approach
 
-- **🖥️ Daily Coding** – Building projects in React, TypeScript, and APIs
-- **📝 To-Do List App** – Rebuilding it daily to master state management & UI
-- **🛒 Grocery List App (Possibly Coming Soon)** – Using real-time pricing APIs
-- **🤖 AI-Powered Web App (Later Project)** – Thinking through how to integrate AI into web apps in **practical** ways
+- **It’s All About Fun**: When I treat coding like a video game, I learn faster and enjoy the process more.  
+- **Follow the Curiosity**: I let my curiosity lead me down rabbit holes around frontend (and sometimes backend).  
+- **Project-First Learning**: Every project is a sandbox. I pick an idea that excites me, then build until it works (or until I break it completely—then fix it).  
 
-### 📅 My Goal for the Next Few Months
+---
 
-- **February:** 250+ hours of coding
-- **March:** Start applying for jobs (450+ hours of coding + 50 hours networking)
-- **April:** Fully built portfolio + aiming to get hired
-- **May (if needed):** 650+ hours of coding, 100+ hours of networking
+## Current Projects & Plans
 
-### 💾 GitHub Activity
+- **Full-Stack Experimentation**: Building a project that blends frontend + backend just because I want to see if I can.  
+- **Portfolio Website**: Creating a place to showcase my work (and break it often as I learn new skills).  
+- **Future AI Integration**: Eventually, I’ll weave in AI knowledge from my bootcamp to level up some of these projects.
 
-- Pushing commits **daily** to track my progress
-- Keeping my projects clean, improving them over time
-- Open to feedback and collaboration
+---
 
-### Why I’m Doing This
+## How I’m Learning
 
-I don’t just want to build websites—I want to **make them smarter with AI**. The demand for developers who can bridge the gap between web and AI is growing fast, and I’m making sure I have the skills to stand out.
+- **Daily Code Sessions (10 hours)**: Until the end of February, I’m going all-in on coding every day.
+- **March Transition**: Plan to do ~7 hours of coding + 3 hours of networking daily. (Not my favorite part, but necessary!)
+- **Hands-On, Not Just Tutorials**: Tutorials are fine for quick references, but I learn by **doing** and making mistakes.
 
-If you're working on something similar, feel free to connect! I'm always open to learning from others and improving my approach.
+---
+
+## Goals for the Next Few Months
+
+- **Keep Having Fun**: If I’m not enjoying it, I pivot. No more forcing myself down a path that isn’t exciting.  
+- **Build & Break Projects**: The best way to learn is to experiment, fail, fix, and repeat.  
+- **Explore What Interests Me**: From design patterns to state management to interesting APIs—whatever sparks my curiosity that day.  
+- **Eventually Land a Frontend Role**: I’d love a frontend dev job, but I’m not stressing the timeline anymore. 
+
+---
+
+## My Philosophy
+
+> **It’s not the destination, it’s the journey.** 
+
+I’m embracing the process: the late-night debugging, the eureka moments, and the weird side tangents that lead to unexpectedly cool discoveries.
+
+---
+
+## Let’s Connect
+
+If you’re also learning by diving into fun, sometimes random projects—or if you have any tips on networking (the part I’m trying to level up)—let’s connect! I’m open to feedback, ideas, and new rabbit holes.
+
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/masonlgalusha/)
+
