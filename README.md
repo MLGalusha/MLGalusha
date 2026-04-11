@@ -8,8 +8,8 @@ Based in Raleigh-Durham. Looking for junior to early-career software engineering
 
 ## Featured projects
 
-- [Voices That Remain](https://voicesthatremain.com)  
-  Built a live archive that turns thousands of handwritten historical letters into a searchable public collection, with AI-assisted transcription and human review before anything goes live.
+- [Voices That Remain](https://github.com/MLGalusha/letter-archive)  
+  Built a live archive that turns thousands of handwritten historical letters into a searchable public collection, with AI-assisted transcription and human review before anything goes live. [Live site](https://voicesthatremain.com)
 
 - [PianoTranscriber](https://github.com/MLGalusha/PianoTranscriber)  
   Built a deep learning pipeline that turns solo piano performances into MIDI and sheet music instead of leaving transcription as a manual process.
