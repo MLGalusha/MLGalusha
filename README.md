@@ -1,6 +1,6 @@
 # Mason Galusha
 
-Full-stack engineer focused on applied AI and ML systems.
+Full-stack engineer focused on real products, practical automation, and AI-powered software.
 
 Based in Raleigh-Durham. Looking for junior to early-career software engineering roles across full-stack, backend, and AI-adjacent work.
 
