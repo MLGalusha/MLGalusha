@@ -17,7 +17,7 @@ Based in Raleigh-Durham. Looking for junior to early-career software engineering
 
 ## Also worth a look
 
-- [SonicGen](https://github.com/MLGalusha/SonicGen): handwritten audio fingerprinting engine for duplicate detection and provenance recovery
+- [SonicGen](https://github.com/MLGalusha/SonicGen): handwritten audio fingerprinting engine for duplicate detection and source matching
 - [staffclaw](https://github.com/MLGalusha/staffclaw): scheduling software built around real restaurant operations problems
 
 ## Contact
