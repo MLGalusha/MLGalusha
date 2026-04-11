@@ -1,5 +1,7 @@
 # Mason Galusha
 
+**[masongalusha.com](https://masongalusha.com)**
+
 Full-stack engineer focused on real products, practical automation, and AI-powered software.
 
 Based in Raleigh-Durham. Looking for junior to early-career software engineering roles across full-stack, backend, and AI-adjacent work.
@@ -12,7 +14,7 @@ Based in Raleigh-Durham. Looking for junior to early-career software engineering
 - [PianoTranscriber](https://github.com/MLGalusha/PianoTranscriber)  
   Built a deep learning pipeline that turns solo piano performances into MIDI and sheet music instead of leaving transcription as a manual process.
 
-- [job-tracker](https://github.com/MLGalusha/job-tracker)  
+- [JobTracker](https://github.com/MLGalusha/job-tracker)  
   Built an event-sourced, agent-native system to turn a messy job search into a structured workflow that sources roles, tracks status, and generates tailored applications from one source of truth.
 
 ## Also worth a look
@@ -22,5 +24,6 @@ Based in Raleigh-Durham. Looking for junior to early-career software engineering
 
 ## Contact
 
+- [Website](https://masongalusha.com)
 - [LinkedIn](https://www.linkedin.com/in/masonlgalusha)
 - [Email](mailto:masonlgalusha.careers@gmail.com)
